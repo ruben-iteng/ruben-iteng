@@ -3,7 +3,11 @@
 🔭 I’m currently working on:
 
 - [faebryk](https://github.com/faebryk/faebryk)
-- [faebryk example projects](https://github.com/ruben-iteng/eurorack-super_simple_oscillator)
+- [faebryk](https://github.com/ruben-iteng/faebryk) (my fork)
+- faebryk projects
+  - [vindrikning-esp32-c3](https://github.com/ruben-iteng/vindrikning-esp32-c3)
+  - [HyperPD](https://github.com/ruben-iteng/HyperPD)
+  - [faebrylizer](https://github.com/ruben-iteng/faebrylyzer)
 
 <!--
 **ruben-iteng/ruben-iteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
